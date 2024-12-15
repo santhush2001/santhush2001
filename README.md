@@ -6,7 +6,6 @@
 
 - 🌟 Passionate about **Software Development**, **Data Science**, and **Web Technologies**.
 - 🎓 Currently exploring advanced **Machine Learning Models** and **Full-Stack Development**.
-- 💼 Working on diverse projects like **Inventory Management Systems**, **Hospital Management Systems**, and **AI Integrations**.
 - 🌐 Interested in trading, AI advancements, and collaborative tech innovations.
 
 ---
@@ -23,24 +22,11 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=santhush2001&show_icons=true&theme=radical" alt="Santhusha's GitHub Stats" width="400">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhush2001&layout=compact&theme=radical" alt="Top Languages" width="400">
-
----
-
-### 🌟 Featured Projects
-
-- **[Inventory Management System](https://github.com/santhush2001/inventory-management)**: Simplifying stock management with a dynamic dashboard.
-- **[Hospital Management System](https://github.com/santhush2001/hospital-management)**: Advanced database design for streamlined healthcare operations.
-- **[Vehicle Dealership Application](https://github.com/santhush2001/vehicle-dealership)**: React-based front-end with Laravel-powered API.
-
----
 
 ### 💬 Connect With Me
 
-- 📫 **Email**: santhushlakshan@example.com
+- 📫 **Email**: santhushalakshan799@gmail.com
 - 💼 **LinkedIn**: [Santhusha Lakshan](https://linkedin.com/in/santhush2001)
 - 🐦 **Twitter**: [@santhush2001](https://twitter.com/santhush2001)
 
@@ -48,7 +34,7 @@
 
 ### 🎉 Fun Facts
 
-- 💡 I love experimenting with **AI** in Laravel projects.
+
 - 📊 Trading enthusiast with a focus on **technical analysis**.
 - 🌍 Always eager to collaborate and innovate in the tech community!
 
