@@ -1,13 +1,19 @@
 ![Header](https://via.placeholder.com/1000x300.png?text=Welcome+to+Santhusha's+GitHub)
 
-# 👋 Hi, I’m Santhusha Lakshan! 
+# 👋 Hi, I’m Santhusha Lakshan!
 
 ### 🚀 About Me
 
-- 🌟 Passionate about **Software Development**, **Data Science**, and **Web Technologies**.
-- 🎓 Currently exploring advanced **Machine Learning Models** and **Full-Stack Development**.
-- 🌐 Interested in trading, AI advancements, and collaborative tech innovations.
+- 💻 Passionate about **Software Development**, **Cybersecurity**, and **Web Technologies**
+- 📚 Actively expanding my knowledge in **Network Security**, **Ethical Hacking**, and **Digital Forensics**
+- 🌟 Also interested in **Data Science** and **AI Security** applications
+- 🏆 CTF player and security enthusiast with hands-on experience in vulnerability assessment
+- 🤝 Looking to collaborate on security-related projects and open-source security tools
 
+### 🎯 Current Focus
+- Preparing for **Security+ Certification**
+- Developing practical skills through **TryHackMe**
+- Exploring **secure coding practices**
 ---
 
 ### 🔧 Technologies & Tools
