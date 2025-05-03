@@ -27,7 +27,7 @@
 ### 💬 Connect With Me
 
 - 📫 **Email**: santhushalakshan799@gmail.com
-- 💼 **LinkedIn**: [Santhusha Lakshan](https://linkedin.com/in/santhush2001)
+- 💼 **LinkedIn**: [Santhusha Lakshan](http://www.linkedin.com/in/santhusha-lakshan-31a272321)
 - 🐦 **Twitter**: [@santhush2001](https://twitter.com/santhush2001)
 
 ---
