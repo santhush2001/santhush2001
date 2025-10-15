@@ -4,12 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Santhusha%20Lakshan&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
 <!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Security+Enthusiast+%F0%9F%94%90;Full+Stack+Developer+%F0%9F%92%BB;CTF+Player+%F0%9F%8F%86;Trading+Analyst+%F0%9F%93%88" alt="Typing SVG" /></a>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=santhushalakshan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/santhushalakshan?label=Followers&style=for-the-badge&color=00D9FF" alt="followers" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Security+Enthusiast+%F0%9F%94%90;Full+Stack+Developer+%F0%9F%92%BB;Trading+Analyst+%F0%9F%93%88;Passionate+Coder+%E2%9C%A8" alt="Typing SVG" /></a>
 
 </div>
 
@@ -38,7 +33,7 @@ certifications_in_progress:
 learning_platforms:
   - TryHackMe
   - HackTheBox
-  - CTF Competitions
+  - Security Research
 ```
 
 <br clear="right"/>
@@ -156,20 +151,15 @@ learning_platforms:
 
 <table align="center">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img src="https://img.icons8.com/color/96/000000/security-checked.png" width="80"/>
 <br /><b>Cybersecurity</b>
-<br />CTF Challenges & Research
+<br />Security Research & Learning
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img src="https://img.icons8.com/color/96/000000/trade.png" width="80"/>
 <br /><b>Trading</b>
 <br />Technical Analysis Enthusiast
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/code.png" width="80"/>
-<br /><b>Development</b>
-<br />Building Innovative Solutions
 </td>
 </tr>
 </table>
