@@ -99,7 +99,7 @@ learning_platforms:
 <div align="center">
 
 <!-- Fixed: Removed the broken widget and added working GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhush2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhush2001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
