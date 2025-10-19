@@ -111,14 +111,6 @@ learning_platforms:
 
 ---
 
-## 🏆 Achievements & Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=santhushalakshan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-</p>
-
----
-
 ## 🌐 Connect & Collaborate
 
 <div align="center">
@@ -152,14 +144,14 @@ learning_platforms:
 <table align="center">
 <tr>
 <td align="center" width="50%">
-<img src="https://img.icons8.com/color/96/000000/security-checked.png" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/security-lock.png" width="80"/>
 <br /><b>Cybersecurity</b>
 <br />Security Research & Learning
 </td>
 <td align="center" width="50%">
-<img src="https://img.icons8.com/color/96/000000/trade.png" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/business.png" width="80"/>
 <br /><b>Trading</b>
-<br />Technical Analysis Enthusiast
+<br />Technical Analysis
 </td>
 </tr>
 </table>
@@ -170,13 +162,6 @@ learning_platforms:
 
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santhushalakshan/santhushalakshan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santhushalakshan/santhushalakshan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/santhushalakshan/santhushalakshan/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
