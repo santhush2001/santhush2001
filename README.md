@@ -33,7 +33,7 @@ certifications_in_progress:
 learning_platforms:
   - TryHackMe
   - HackTheBox
-  - CTF Competitions
+  - Security Research
 ```
 
 <br clear="right"/>
@@ -97,16 +97,16 @@ learning_platforms:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhushalakshan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhushalakshan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhush2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhush2001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhushalakshan&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhush2001&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhushalakshan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhush2001&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%"/>
 </div>
 
 ---
@@ -151,20 +151,15 @@ learning_platforms:
 
 <table align="center">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img src="https://img.icons8.com/color/96/000000/security-checked.png" width="80"/>
 <br /><b>Cybersecurity</b>
-<br />CTF Challenges & Research
+<br />Security Research & Learning
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img src="https://img.icons8.com/color/96/000000/trade.png" width="80"/>
 <br /><b>Trading</b>
 <br />Technical Analysis Enthusiast
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/code.png" width="80"/>
-<br /><b>Development</b>
-<br />Building Innovative Solutions
 </td>
 </tr>
 </table>
