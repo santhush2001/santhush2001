@@ -97,7 +97,8 @@ learning_platforms:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
+
+<!-- Fixed: Removed the broken widget and added working GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhush2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhush2001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117)
@@ -105,6 +106,7 @@ learning_platforms:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=santhush2001&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
+
 
 ---
 
@@ -140,15 +142,20 @@ learning_platforms:
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
-<img src="https://img.icons8.com/fluency/96/000000/security-lock.png" width="80"/>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/hacker.png" width="80"/>
 <br /><b>Cybersecurity</b>
 <br />Security Research & Learning
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/business.png" width="80"/>
 <br /><b>Trading</b>
 <br />Technical Analysis
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/source-code.png" width="80"/>
+<br /><b>Coding</b>
+<br />Building Projects & Learning
 </td>
 </tr>
 </table>
