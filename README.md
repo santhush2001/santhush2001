@@ -114,7 +114,7 @@ learning_platforms:
 ## 🏆 Achievements & Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=santhush2001&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=santhushalakshan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 </p>
 
 ---
@@ -171,8 +171,12 @@ learning_platforms:
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 📈 Contribution Graph
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhush2001&theme=tokyonight)
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santhushalakshan/santhushalakshan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santhushalakshan/santhushalakshan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/santhushalakshan/santhushalakshan/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
