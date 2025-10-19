@@ -97,25 +97,14 @@ learning_platforms:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhush2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhush2001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhush2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhush2001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=santhush2001&theme=tokyonight&hide_border=true&background=0d1117)
+
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhush2001&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhush2001&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%"/>
-</div>
-
----
-
-## 🏆 Achievements & Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=santhushalakshan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-</p>
 
 ---
 
@@ -152,14 +141,14 @@ learning_platforms:
 <table align="center">
 <tr>
 <td align="center" width="50%">
-<img src="https://img.icons8.com/color/96/000000/security-checked.png" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/security-lock.png" width="80"/>
 <br /><b>Cybersecurity</b>
 <br />Security Research & Learning
 </td>
 <td align="center" width="50%">
-<img src="https://img.icons8.com/color/96/000000/trade.png" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/business.png" width="80"/>
 <br /><b>Trading</b>
-<br />Technical Analysis Enthusiast
+<br />Technical Analysis
 </td>
 </tr>
 </table>
@@ -170,13 +159,6 @@ learning_platforms:
 
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santhushalakshan/santhushalakshan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santhushalakshan/santhushalakshan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/santhushalakshan/santhushalakshan/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
